@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Wolfe/1.0.0": {
+        "dependencies": {
+          "DirectSearch": "1.0.0",
+          "wspolne": "1.0.0"
+        },
+        "runtime": {
+          "Wolfe.dll": {}
+        }
+      },
+      "DirectSearch/1.0.0": {
+        "dependencies": {
+          "wspolne": "1.0.0"
+        },
+        "runtime": {
+          "DirectSearch.dll": {}
+        }
+      },
+      "wspolne/1.0.0": {
+        "runtime": {
+          "wspolne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wolfe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DirectSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "wspolne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

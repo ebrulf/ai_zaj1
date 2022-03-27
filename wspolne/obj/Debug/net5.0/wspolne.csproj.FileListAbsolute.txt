@@ -1,0 +1,12 @@
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\bin\Debug\net5.0\wspolne.deps.json
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\bin\Debug\net5.0\wspolne.dll
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\bin\Debug\net5.0\ref\wspolne.dll
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\bin\Debug\net5.0\wspolne.pdb
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\obj\Debug\net5.0\wspolne.csproj.AssemblyReference.cache
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\obj\Debug\net5.0\wspolne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\obj\Debug\net5.0\wspolne.AssemblyInfoInputs.cache
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\obj\Debug\net5.0\wspolne.AssemblyInfo.cs
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\obj\Debug\net5.0\wspolne.csproj.CoreCompileInputs.cache
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\obj\Debug\net5.0\wspolne.dll
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\obj\Debug\net5.0\ref\wspolne.dll
+C:\Users\Konstanty\source\repos\AI_zaj1\wspolne\obj\Debug\net5.0\wspolne.pdb

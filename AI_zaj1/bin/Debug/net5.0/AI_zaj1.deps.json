@@ -1,0 +1,121 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AI_zaj1/1.0.0": {
+        "dependencies": {
+          "Bisection": "1.0.0",
+          "DirectSearch": "1.0.0",
+          "FibSearch": "1.0.0",
+          "GoldSearch": "1.0.0",
+          "Lagrange": "1.0.0",
+          "Wolfe": "1.0.0",
+          "wspolne": "1.0.0"
+        },
+        "runtime": {
+          "AI_zaj1.dll": {}
+        }
+      },
+      "Bisection/1.0.0": {
+        "dependencies": {
+          "wspolne": "1.0.0"
+        },
+        "runtime": {
+          "Bisection.dll": {}
+        }
+      },
+      "DirectSearch/1.0.0": {
+        "dependencies": {
+          "wspolne": "1.0.0"
+        },
+        "runtime": {
+          "DirectSearch.dll": {}
+        }
+      },
+      "FibSearch/1.0.0": {
+        "dependencies": {
+          "wspolne": "1.0.0"
+        },
+        "runtime": {
+          "FibSearch.dll": {}
+        }
+      },
+      "GoldSearch/1.0.0": {
+        "dependencies": {
+          "wspolne": "1.0.0"
+        },
+        "runtime": {
+          "GoldSearch.dll": {}
+        }
+      },
+      "Lagrange/1.0.0": {
+        "dependencies": {
+          "wspolne": "1.0.0"
+        },
+        "runtime": {
+          "Lagrange.dll": {}
+        }
+      },
+      "Wolfe/1.0.0": {
+        "dependencies": {
+          "DirectSearch": "1.0.0",
+          "wspolne": "1.0.0"
+        },
+        "runtime": {
+          "Wolfe.dll": {}
+        }
+      },
+      "wspolne/1.0.0": {
+        "runtime": {
+          "wspolne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AI_zaj1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bisection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DirectSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FibSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoldSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lagrange/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wolfe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "wspolne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\bin\Debug\net5.0\Lagrange.deps.json
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\bin\Debug\net5.0\Lagrange.dll
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\bin\Debug\net5.0\ref\Lagrange.dll
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\bin\Debug\net5.0\Lagrange.pdb
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\bin\Debug\net5.0\wspolne.dll
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\bin\Debug\net5.0\wspolne.pdb
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\obj\Debug\net5.0\Lagrange.csproj.AssemblyReference.cache
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\obj\Debug\net5.0\Lagrange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\obj\Debug\net5.0\Lagrange.AssemblyInfoInputs.cache
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\obj\Debug\net5.0\Lagrange.AssemblyInfo.cs
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\obj\Debug\net5.0\Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\obj\Debug\net5.0\Lagrange.csproj.CopyComplete
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\obj\Debug\net5.0\Lagrange.dll
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\obj\Debug\net5.0\ref\Lagrange.dll
+C:\Users\Konstanty\source\repos\AI_zaj1\Lagrange\obj\Debug\net5.0\Lagrange.pdb

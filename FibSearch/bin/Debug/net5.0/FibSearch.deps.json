@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FibSearch/1.0.0": {
+        "dependencies": {
+          "wspolne": "1.0.0"
+        },
+        "runtime": {
+          "FibSearch.dll": {}
+        }
+      },
+      "wspolne/1.0.0": {
+        "runtime": {
+          "wspolne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FibSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "wspolne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

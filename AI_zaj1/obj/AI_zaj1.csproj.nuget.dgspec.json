@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\AI_zaj1\\AI_zaj1.csproj": {}
+    "C:\\Users\\konst\\Saved Games\\AI_zaj1\\AI_zaj1\\AI_zaj1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\AI_zaj1\\AI_zaj1.csproj": {
+    "C:\\Users\\konst\\Saved Games\\AI_zaj1\\AI_zaj1\\AI_zaj1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\AI_zaj1\\AI_zaj1.csproj",
+        "projectUniqueName": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\AI_zaj1\\AI_zaj1.csproj",
         "projectName": "AI_zaj1",
-        "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\AI_zaj1\\AI_zaj1.csproj",
-        "packagesPath": "C:\\Users\\Konstanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\AI_zaj1\\obj\\",
+        "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\AI_zaj1\\AI_zaj1.csproj",
+        "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\AI_zaj1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Konstanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,32 +26,33 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Bisection\\Bisection.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Bisection\\Bisection.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Bisection\\Bisection.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Bisection\\Bisection.csproj"
               },
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\DirectSearch\\DirectSearch.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\DirectSearch\\DirectSearch.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\DirectSearch\\DirectSearch.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\DirectSearch\\DirectSearch.csproj"
               },
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\FibSearch\\FibSearch.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\FibSearch\\FibSearch.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\FibSearch\\FibSearch.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\FibSearch\\FibSearch.csproj"
               },
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\GoldSearch\\GoldSearch.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\GoldSearch\\GoldSearch.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\GoldSearch\\GoldSearch.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\GoldSearch\\GoldSearch.csproj"
               },
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Lagrange\\Lagrange.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Lagrange\\Lagrange.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Lagrange\\Lagrange.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Lagrange\\Lagrange.csproj"
               },
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Wolfe\\Wolfe.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Wolfe\\Wolfe.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Wolfe\\Wolfe.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Wolfe\\Wolfe.csproj"
               },
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj"
               }
             }
           }
@@ -67,7 +72,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,21 +82,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Bisection\\Bisection.csproj": {
+    "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Bisection\\Bisection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Bisection\\Bisection.csproj",
+        "projectUniqueName": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Bisection\\Bisection.csproj",
         "projectName": "Bisection",
-        "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Bisection\\Bisection.csproj",
-        "packagesPath": "C:\\Users\\Konstanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Bisection\\obj\\",
+        "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Bisection\\Bisection.csproj",
+        "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Bisection\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Konstanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,14 +108,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj"
               }
             }
           }
@@ -125,7 +136,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -134,21 +146,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\DirectSearch\\DirectSearch.csproj": {
+    "C:\\Users\\konst\\Saved Games\\AI_zaj1\\DirectSearch\\DirectSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\DirectSearch\\DirectSearch.csproj",
+        "projectUniqueName": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\DirectSearch\\DirectSearch.csproj",
         "projectName": "DirectSearch",
-        "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\DirectSearch\\DirectSearch.csproj",
-        "packagesPath": "C:\\Users\\Konstanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\DirectSearch\\obj\\",
+        "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\DirectSearch\\DirectSearch.csproj",
+        "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\DirectSearch\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Konstanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -156,14 +172,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj"
               }
             }
           }
@@ -183,7 +200,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -192,21 +210,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\FibSearch\\FibSearch.csproj": {
+    "C:\\Users\\konst\\Saved Games\\AI_zaj1\\FibSearch\\FibSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\FibSearch\\FibSearch.csproj",
+        "projectUniqueName": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\FibSearch\\FibSearch.csproj",
         "projectName": "FibSearch",
-        "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\FibSearch\\FibSearch.csproj",
-        "packagesPath": "C:\\Users\\Konstanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\FibSearch\\obj\\",
+        "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\FibSearch\\FibSearch.csproj",
+        "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\FibSearch\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Konstanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -214,14 +236,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj"
               }
             }
           }
@@ -241,7 +264,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -250,21 +274,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\GoldSearch\\GoldSearch.csproj": {
+    "C:\\Users\\konst\\Saved Games\\AI_zaj1\\GoldSearch\\GoldSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\GoldSearch\\GoldSearch.csproj",
+        "projectUniqueName": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\GoldSearch\\GoldSearch.csproj",
         "projectName": "GoldSearch",
-        "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\GoldSearch\\GoldSearch.csproj",
-        "packagesPath": "C:\\Users\\Konstanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\GoldSearch\\obj\\",
+        "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\GoldSearch\\GoldSearch.csproj",
+        "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\GoldSearch\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Konstanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -272,14 +300,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj"
               }
             }
           }
@@ -299,7 +328,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -308,21 +338,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Lagrange\\Lagrange.csproj": {
+    "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Lagrange\\Lagrange.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Lagrange\\Lagrange.csproj",
+        "projectUniqueName": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Lagrange\\Lagrange.csproj",
         "projectName": "Lagrange",
-        "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Lagrange\\Lagrange.csproj",
-        "packagesPath": "C:\\Users\\Konstanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Lagrange\\obj\\",
+        "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Lagrange\\Lagrange.csproj",
+        "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Lagrange\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Konstanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -330,14 +364,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj"
               }
             }
           }
@@ -357,7 +392,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -366,21 +402,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Wolfe\\Wolfe.csproj": {
+    "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Wolfe\\Wolfe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Wolfe\\Wolfe.csproj",
+        "projectUniqueName": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Wolfe\\Wolfe.csproj",
         "projectName": "Wolfe",
-        "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Wolfe\\Wolfe.csproj",
-        "packagesPath": "C:\\Users\\Konstanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\Wolfe\\obj\\",
+        "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Wolfe\\Wolfe.csproj",
+        "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\Wolfe\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Konstanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -388,17 +428,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\DirectSearch\\DirectSearch.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\DirectSearch\\DirectSearch.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\DirectSearch\\DirectSearch.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\DirectSearch\\DirectSearch.csproj"
               },
-              "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj": {
-                "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj"
+              "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj": {
+                "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj"
               }
             }
           }
@@ -418,7 +459,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -427,21 +469,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj": {
+    "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj",
+        "projectUniqueName": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj",
         "projectName": "wspolne",
-        "projectPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\wspolne.csproj",
-        "packagesPath": "C:\\Users\\Konstanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Konstanty\\source\\repos\\AI_zaj1\\wspolne\\obj\\",
+        "projectPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\wspolne.csproj",
+        "packagesPath": "C:\\Users\\konst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\konst\\Saved Games\\AI_zaj1\\wspolne\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Konstanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\konst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -449,6 +495,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -472,7 +519,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -481,7 +529,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -17,3 +17,22 @@ C:\Users\Konstanty\source\repos\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSear
 C:\Users\Konstanty\source\repos\AI_zaj1\DirectSearch\obj\Debug\net5.0\ref\DirectSearch.dll
 C:\Users\Konstanty\source\repos\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSearch.pdb
 C:\Users\Konstanty\source\repos\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSearch.genruntimeconfig.cache
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\bin\Debug\net5.0\DirectSearch.exe
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\bin\Debug\net5.0\DirectSearch.deps.json
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\bin\Debug\net5.0\DirectSearch.runtimeconfig.json
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\bin\Debug\net5.0\DirectSearch.runtimeconfig.dev.json
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\bin\Debug\net5.0\DirectSearch.dll
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\bin\Debug\net5.0\DirectSearch.pdb
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\bin\Debug\net5.0\wspolne.dll
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\bin\Debug\net5.0\wspolne.pdb
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSearch.csproj.AssemblyReference.cache
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSearch.AssemblyInfoInputs.cache
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSearch.AssemblyInfo.cs
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSearch.csproj.CoreCompileInputs.cache
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSearch.csproj.CopyComplete
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSearch.dll
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\obj\Debug\net5.0\refint\DirectSearch.dll
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSearch.pdb
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\obj\Debug\net5.0\DirectSearch.genruntimeconfig.cache
+C:\Users\konst\Saved Games\AI_zaj1\DirectSearch\obj\Debug\net5.0\ref\DirectSearch.dll

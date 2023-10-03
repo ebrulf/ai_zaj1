@@ -13,3 +13,18 @@ C:\Users\Konstanty\source\repos\AI_zaj1\GoldSearch\obj\Debug\net5.0\GoldSearch.c
 C:\Users\Konstanty\source\repos\AI_zaj1\GoldSearch\obj\Debug\net5.0\GoldSearch.dll
 C:\Users\Konstanty\source\repos\AI_zaj1\GoldSearch\obj\Debug\net5.0\ref\GoldSearch.dll
 C:\Users\Konstanty\source\repos\AI_zaj1\GoldSearch\obj\Debug\net5.0\GoldSearch.pdb
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\bin\Debug\net5.0\GoldSearch.deps.json
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\bin\Debug\net5.0\GoldSearch.dll
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\bin\Debug\net5.0\GoldSearch.pdb
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\bin\Debug\net5.0\wspolne.dll
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\bin\Debug\net5.0\wspolne.pdb
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\obj\Debug\net5.0\GoldSearch.csproj.AssemblyReference.cache
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\obj\Debug\net5.0\GoldSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\obj\Debug\net5.0\GoldSearch.AssemblyInfoInputs.cache
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\obj\Debug\net5.0\GoldSearch.AssemblyInfo.cs
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\obj\Debug\net5.0\GoldSearch.csproj.CoreCompileInputs.cache
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\obj\Debug\net5.0\GoldSearch.csproj.CopyComplete
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\obj\Debug\net5.0\GoldSearch.dll
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\obj\Debug\net5.0\refint\GoldSearch.dll
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\obj\Debug\net5.0\GoldSearch.pdb
+C:\Users\konst\Saved Games\AI_zaj1\GoldSearch\obj\Debug\net5.0\ref\GoldSearch.dll
